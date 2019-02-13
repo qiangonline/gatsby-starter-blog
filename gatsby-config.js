@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `沙上有印，风中有音`,
+    title: `Seven Deadly Sins: Gluttony, Greed, Sloth, Wrath, Pride, Lust, and Envy.`,
     author: `Qiang`,
-    description: `something`,
+    description: `永远说实话，这样的话你就不用去记你曾经说过些什么。`,
     siteUrl: `https://istuning.com/`,
 
   },

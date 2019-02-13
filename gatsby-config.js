@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `A man has to be what he is, can't break the mold.`,
     author: `Qiang`,
-    description: `永远说实话，这样的话你就不用去记你曾经说过些什么。`,
+    description: `Sun Qiang, Front End, Node.js`,
     siteUrl: `https://istuning.com/`,
 
   },

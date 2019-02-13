@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Seven Deadly Sins: Gluttony, Greed, Sloth, Wrath, Pride, Lust, and Envy.`,
+    title: `A man has to be what he is, can't break the mold.`,
     author: `Qiang`,
     description: `永远说实话，这样的话你就不用去记你曾经说过些什么。`,
     siteUrl: `https://istuning.com/`,
